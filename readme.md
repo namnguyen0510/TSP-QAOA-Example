@@ -1,0 +1,1 @@
+This repository implements the Traveling Salesman Problem (TSP) using the Quantum Approximate Optimization Algorithm (QAOA). QAOA is a variational algorithm for solving optimization problems on quantum computers, and this project explores its application to finding optimal routes for the TSP. Cloned from: https://github.com/PsiAlgorithms/TSP_QAOA
